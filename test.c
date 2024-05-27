@@ -3,7 +3,7 @@
 
 int main() 
 { 
-	int A, B, sum = 0; 
+	int A, B, sum = 120; 
 
 	// Ask user to enter the two numbers 
 	printf("Enter two numbers A and B : \n"); 
